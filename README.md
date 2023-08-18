@@ -2,6 +2,15 @@
 
 This repo includes tools and utilities to make working with the ION network and using ION DIDs easy for developers integrating DIDs into their apps and services. The packages within are geared toward making interactions with ION maximally accessible for developers, with a primary focus on making their functionality dually available in both client Web and server environments.
 
+
+## Did Type Example
+```bash
+npm install
+npm run build
+cd examples/
+node did-type-example.js
+```
+
 ## Installation
 ```bash
 npm install @decentralized-identity/ion-tools

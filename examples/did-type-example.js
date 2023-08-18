@@ -1,4 +1,7 @@
+
 import { anchor, DID, generateKeyPair } from '@decentralized-identity/ion-tools';
+// import { anchor, DID, generateKeyPair } from './dist/esm/index.js';
+
 import { writeFile } from 'fs/promises';
 
 // Generate keys and ION DID
