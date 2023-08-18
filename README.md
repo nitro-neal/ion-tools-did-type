@@ -4,6 +4,8 @@ This repo includes tools and utilities to make working with the ION network and 
 
 
 ## Did Type Example
+To run the did type example run the following:
+
 ```bash
 npm install
 npm run build
